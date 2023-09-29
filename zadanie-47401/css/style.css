@@ -163,8 +163,8 @@ label[for="drop-nav"] {
  }
 
  .wrapper .portfolio-item {
-    flex-basis: 25%;
-    height: 200px;
+    /* flex-basis: 25%; */
+    
     position: relative;
  }
 
